@@ -1,0 +1,17 @@
+{
+  "name": "node-crud",
+  "version": "1.0.0",
+  "description": "Simple crud app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "angular-ui-router": "^1.0.18",
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*"
+  },
+  "author": "Mateo",
+  "license": "ISC"
+}

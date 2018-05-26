@@ -1,0 +1,13 @@
+{
+  "name": "node-crud",
+  "description": "Simple crud app",
+  "main": "app.js",
+  "authors": [
+    "Mateo"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "angular-ui-router": "^1.0.18"
+  }
+}
